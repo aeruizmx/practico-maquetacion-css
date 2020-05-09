@@ -16,6 +16,10 @@ a {
   left: 0;
   right: 0;
 }
+.grid-container{
+  max-width: 980px;
+  margin: auto;
+}
 /******************* HEADER *******/
 header{
   width: 100%;
